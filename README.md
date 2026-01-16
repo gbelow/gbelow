@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Guilherme Below | Software Engineer (German Citizen)
+Focusing on TypeScript, Node.js, and AWS.
+
+### Key Technical Project: [FallowRPG Manager](link)
+- **Tech:** TypeScript, DDD, Node.js
+- **Challenge:** Managing multi-layered relational data and complex business logic.
 
 <!--
 **gbelow/gbelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
