@@ -2,7 +2,7 @@
 # Guilherme Below | Software Engineer
 Focusing on TypeScript, Node.js, and AWS.
 
-### Key Technical Project: [FallowRPG Manager](link)
+### Key Technical Project: [FallowRPG Manager](https://github.com/gbelow/fallowrpg-character-manager)
 - **Tech:** TypeScript, DDD, Node.js
 - **Challenge:** Managing multi-layered relational data and complex business logic.
 
