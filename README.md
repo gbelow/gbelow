@@ -1,5 +1,5 @@
 
-# Guilherme Below | Software Engineer (German Citizen)
+# Guilherme Below | Software Engineer
 Focusing on TypeScript, Node.js, and AWS.
 
 ### Key Technical Project: [FallowRPG Manager](link)
